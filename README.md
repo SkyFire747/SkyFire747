@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SkyFire747
 - 👀 I’m interested in STEM and robitics
 - 🌱 I currently would like to be learning more about STEM and robotics
-- 💞️ I’m looking to collaborate on about the above
+- 💞️ I’m looking to collaborate on the above
 - 📫 How to reach me through here on github
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SkyFire747
+- 👋 Hi, I’m @SkyFire747, (Anthony)
 - 👀 I’m interested in STEM and robitics
 - 🌱 I currently would like to be learning more about STEM and robotics
 - 💞️ I’m looking to collaborate on the above
